@@ -140,4 +140,3 @@ f_test, s_test, exam = int(input("Enter Your First Test, Second Test and Exam: "
 # Question 10
 print("Question 10")
 
-
